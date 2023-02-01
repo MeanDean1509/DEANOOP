@@ -152,3 +152,5 @@ public class ChiTietHoaDon {
         }
     }
 }
+// chinh sua
+// tiep tuc chinh sua
