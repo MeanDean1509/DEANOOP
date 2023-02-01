@@ -1,0 +1,20 @@
+NVTV001, Nguyen, Thi Ha, nhan vien tu van, 5, TPHCM
+NVKH001, Dinh, Van Nghia, nhan vien kiem hang, 8, TPHCM
+NVKH002, Dao, Quang Anh, nhan vien kiem hang, 6, Ha Noi 
+NVKT001, Le, Hoai An, ke toan, 4, Da Nang
+NVTV002, Mai, Thuy Anh, nhan vien tu van, 8, Ben Tre
+NVKH003, Ngo, Phuc Hung, nhan vien kiem hang, 5, Ben Cat
+NVKT002, Le, Thuy Linh, ke toan, 4, Ha Noi
+NVKH004, Chu, Ba Quan, nhan vien kiem hang, 9, Thanh Hoa
+NVKT003, Ha, Anh Tuan, ke toan, 5, TPHCM
+NVBH001, Tran, Thanh Ha, nhan vien ban hang, 6, Binh Duong
+NVBH002, Nguyen, An Diep, nhan vien ban hang, 5, Nha Trang
+NVBH003, Le, Van Thi, nhan vien ban hang, 4, TPHCM
+NVBH004, Hoang, Van Sang, nhan vien ban hang, 8, Vung Tau
+NVTV003, Bui, Duc Tien, nhan vien tu van, 5, Da Nang
+NVBH005, Nguyen, Phu Quy, nhan vien ban hang, 5, Ha Noi
+NVTV004, Nguyen, Hong Thuy, nhan vien tu van, 9, Dong Nai
+NVTV005, Bui, Ngoc Bich, nhan vien tu van, 6, Long An
+NVBH006, Vo, Minh Dien, nhan vien ban hang, 5, Vinh Long
+NVBH007, Nguyen, Quang Hai, nhan vien ban hang, 6, Quang Ninh
+NVTV006, Lam, Thanh Long, nhan vien tu van, 5, TPHCM

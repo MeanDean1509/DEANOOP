@@ -1,0 +1,23 @@
+TA001, Pate ca ngu CAT SEA FISH, 30000, hop, 351, long, meo
+TA002, Thit uc ga nuong sot so diep, 40000, goi, 2543, kho, meo
+PK001, Sua tam khu mui JOYCE & DOLLS, 238000, chai, 1177, ve sinh
+TA003, Pate thit ga IRIS Bonito Chicken, 45000, hop, 1749, long, meo
+PK002, Luoc chai long cho meo BOBO, 85000, cai, 969, ve sinh
+PK003, Kem cat bam mong PAW Safety Guard Clipper, 70000, cai, 1381, ve sinh
+TA004, Xuong canxi da bo vi sua IRIS GN3L, 145000, goi, 2143, kho, cho
+TA005, Sup thuong vi thit bo INABA Beef, 40000, goi, 1587, long, cho
+PK004, Ro mom cho hinh mo vit PAW Aduck, 75000, cai, 2711, bao ve
+PK005, Tong do cat long cho meo CODOS 3100, 540000, cai, 535, ve sinh
+TA006, Sua BBN Goat Milk New Zealand, 320000, hop, 793, long, cho
+PK006, Dia bay cho cho BOBO Pet Frisbee, 110000, cai, 2301, do choi
+PK007, Bong do choi cho cho meo COBOO, 80000, cai, 1891, do choi
+PK008, Sua tam cho cho tri ve ran BBN Killing Mites Shampoo, 280000, chai, 1489, ve sinh
+TA007, Hat kho cho meo truong thanh ROYAL CANIN, 110000, goi, 862, kho, meo
+TA008, Pate vi bo va rau IRIS HRBV375 Beef Vegetable, 65000, goi, 873, long, cho
+TA009, Sua tuoi cho cho DR HOLI Pet Milk Vanilla, 48000, hop, 935, long, cho
+TA010, Xuong vi sua bo VEGEBRAND Orgo High Calcium Oat Milk, 86000, goi, 1038, kho, cho
+TA011, Pate vi thit ga ca ngu CIAO Chicken & Tuna, 75000, hop, 606, long, meo
+PK009, May say long cho meo CHUNZHOU BS2400CZ, 1800000, cai, 767, ve sinh
+TA012, Xuong vi thit hinh xuong Orgo Meat Plus Bone, 80000, goi, 839, kho, cho
+TA013, Gel dinh duong BIOLINE Nutrition Supplement Gel, 170000, hop, 1192, long, cho
+TA014, Snack CIAO Tuna Scallop vi so diep ca ngu, 35000, goi, 1089, kho, meo
