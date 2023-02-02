@@ -154,6 +154,4 @@ public class ChiTietHoaDon {
 }
 // chinh sua
 // tiep tuc chinh sua
-// chinh sua lan 3
-// chinh sua lan 4
-// thanh vien cua nhom chinh sua lan 5
+
